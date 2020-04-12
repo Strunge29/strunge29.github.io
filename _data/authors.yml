@@ -1,18 +1,18 @@
 rohanchandra: # author-id
-  name: "Marc Allo"
-  avatar: "assets/img/avatars/mark_allp.png"
+  name: ""
+  avatar: "assets/img/avatars/"
   url: 
 sylhare:
-  name: Sheriff Ola
-  avatar: "assets/img/avatars/sheriff_ola.png"
+  name: 
+  avatar: ""
   url: 
 mmistakes:
-  name: "Sheriff O"
-  avatar: "assets/img/avatars/sheriff_o.webp"
+  name: ""
+  avatar: ""
   url: 
 mhagnumdw:
-  name: Featured Writer
-  avatar: "assets/img/avatars/unknown.png"
+  name: 
+  avatar: ""
   url:
 unknown:
   name: Unknown
