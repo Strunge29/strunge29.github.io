@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Implementing Safeguard Information System for Redd+ in Africa
+author: Sheriff Ola
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
