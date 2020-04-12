@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Implementing Safeguard Information System for Redd+ in Africa: consolidating local knowledge and human rights
+title: Implementing Safeguard Information System for Redd+ in Africa
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
