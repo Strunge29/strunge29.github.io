@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: Implementing Safeguard Information System for Redd+ in Africa: consolidating local knowledge and human rights
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
