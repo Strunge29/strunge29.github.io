@@ -5,12 +5,12 @@ tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
 
-Within the last few decades, attempts to improve ecological and environmental outcomes and reduce emmissions from carbon have led many countries in the African sub continent to increasingly adopt and incorporate redd+ measures into national environmental policies. Unfortunately, emerging evidence suggests that while adopting and incorporating such measures may yield some positive benefits, they are also likely to trigger social and environmental challenges if not properly implemented and or managed. 
+Within the last few decades, attempts to improve ecological and environmental outcomes and reduce emmissions from carbon have led many countries in the African sub continent to increasingly adopt and incorporate REDD+ measures into national environmental policies. However, emerging evidence suggests that while adopting and incorporating such measures is expected to yield positive benefits, it also likely could trigger social and environmental challenges if not properly implemented and or managed. 
 <!--more-->
-Redd+ emerged as a UN measure that seeks to achieve a 2-pronged outcome through encouragenent of developing countries to contribute to climate reduction efforts by:
+REDD+ emerged as a UN measure to encourage developing countries to contribute to climate reduction efforts by committing to:
 
 * slowing, halting and reversing forest loss and degradation
-* Increasing removal of green house gases (
+* Drastically reducing - that ultimately leades to removal of - green house gases through conservation and sustainability strategies at the national level.
 
 Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
 
