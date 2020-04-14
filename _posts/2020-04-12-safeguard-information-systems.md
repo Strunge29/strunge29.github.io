@@ -7,7 +7,16 @@ excerpt_separator: <!--more-->
 
 Within the last few decades, attempts to improve ecological and environmental outcomes and reduce emmissions from carbon have led many countries in the African sub continent to increasingly adopt and incorporate REDD+ measures into national environmental policies. However, emerging evidence suggests that while adopting and incorporating such measures are expected to yield positive benefits, they also likely could trigger social and environmental challenges if not properly implemented and or managed. 
 <!--more-->
-Although REDD+ aims to ***encourage*** developing countries to contribute to climate reduction efforts by slowing, halting and reversing forest loss and degradation, and also, effecting drastic reduction in greenhouse gas emmission through conservation and sustainability strategies at the national level, given that forest and environmental management such as found in majority of Africa often entail socio-complex ecological systems steeped in traditional, cultural and highly political institutions and processes, the REDD+ programme has often provided a perfect impetus for certain governments and national authorities figures to maintain (or even further) the business as usual approaches to tropical forests and land use management.  it is that that nothing short of a ***revolutionary change that renounces the standard and traditional management approaches to land and natural resources*** is needed to realise the REDD+ objectives
+
+Although REDD+ aims to ***encourage*** developing countries to contribute to climate reduction efforts by slowing, halting and reversing forest loss and degradation, and also, effecting drastic reduction in greenhouse gas emmission through conservation and sustainability strategies at the national level, given that forest and environmental management such as found in majority of Africa often entail socio-complex ecological systems steeped in traditional, cultural and highly political institutions and processes, the REDD+ programme has often provided a perfect impetus for certain governments and national authorities figures to maintain (or even further) the business-as-usual attitudes and approaches to tropical forests and land use management. 
+
+In the 2010 Cancun Climate Change Convention, the UN-REDD+ sought to address this challenge by putting in place certain safegaurds that, among others, seeks to ensure:
+* Respect for indigenous and local forest community rights and knowledge;
+* Transparent national forest governance structures and apparatues;
+* Effective participation of forest stakeholders; and finally,
+* Conservation of tropical forests and biodiversity.
+
+
 
 
 Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
