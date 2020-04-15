@@ -4,6 +4,8 @@ title: Implementing Safeguard Information Systems for REDD+ in Africa
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
+![ivorycoast]({{ "/assets/img/pexels/ivorycoast.jpg" | relative_url}})
+
 
 The need to improve ecological and environmental outcomes and reduce emmission from carbon have, in the past decade, led many countries to increasingly adopt and incorporate REDD+ measures into national environmental policies. However, emerging evidence suggests that while adopting and incorporating such measures are expected to yield positive benefits, given the socio-complex nature of environmental management in most participating countries - managements often steeped in traditional, cultural and highly political processes - REDD+ programmes risk providing a perfect cover for certain governments and national authority figures to maintain (and reinforce) business-as-usual attitudes and approaches to tropical forests and land use management that are detrimental to the rights and safety of ordinary forest sector stakeholders. 
 
