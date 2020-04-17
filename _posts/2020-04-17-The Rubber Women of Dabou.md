@@ -9,6 +9,10 @@ excerpt_separator: <!--more-->
 
 ![alt text]( /assets/img/pexels/loading.jpeg "Manual rubber loading using bare hands a common practice in West Africa | image courtesy of Google")
 
+<p align="center">
+  <"/assets/img/pexels/loading.jpeg" />
+</p>
+
 Felicia, short and heavy set, with badly bleached skin and uneven set of teeth stained by cigarrette and marijuana, had used the $150 she received as disarmament money in 2003 to travel nearly 1000 km from Monrovia, Liberia, to Abidjan, Ivory Coast. She had come in search of a fresh start after years of serving as bride to a senior official in one of the rebel battalions that fought to overthrow President Charles Taylor's government during Liberia's second civil war.
 
 <!--more-->
