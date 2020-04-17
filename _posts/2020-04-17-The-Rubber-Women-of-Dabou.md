@@ -1,9 +1,7 @@
 ---
 layout: post
 title: The Rubber Women of Dabou: Gender Disparities in Natural Rubber Enterprise Opportunities in Ivory Coast
-tags: [Women, Livelihoods, Rubber business]
 color: brown
-author: Sheriff Ola
 excerpt_separator: <!--more-->
 ---
 
