@@ -1,15 +1,13 @@
 ---
 layout: post
-title: The Rubber Women of Dabou Gender Disparities in Natural Rubber Enterprise Opportunities in Ivory Coast
+title: Gender Disparities in Natural Rubber Enterprise Opportunities in Ivory Coast
 color: brown
 excerpt_separator: <!--more-->
 ---
 
 <p align="center" width = "800" height = "300" alt = "Manual rubber loading using bare hands a common practice in West Africa | image courtesy of Google"><img src = "/assets/img/pexels/loading.jpeg" /></p>
 
-Felicia, short and heavy set, with badly bleached skin and uneven set of teeth stained by cigarrette and marijuana, had used the $150 she received as disarmament money in 2003 to travel nearly 1000 km from Monrovia, Liberia, to Abidjan, Ivory Coast. She had come in search of a fresh start after years of serving as bride to a senior official in one of the rebel battalions that fought to overthrow President Charles Taylor's government during Liberia's second civil war.
-
-<!--more-->
+Felicia, short and heavy set, with badly bleached skin and uneven set of teeth stained by cigarrette and marijuana, had used the $150 she received as disarmament money in 2003 to travel nearly 1000 km from Monrovia, Liberia, to Abidjan, Ivory Coast. <!--more--> She had come in search of a fresh start after years of serving as bride to a senior official in one of the rebel battalions that fought to overthrow President Charles Taylor's government during Liberia's second civil war.
 
 Now, 12 years after the war, and four children from two failed marriages later, she is starting to feel that the fresh start she'd thought had eluded her since arriving in Abidjan over a decade ago is possible after all. Thanks, in no small part, to the rubber loading business she'd started a few years ago.
 
