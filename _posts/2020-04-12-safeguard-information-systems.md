@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implementing Safeguard Information Systems for REDD+ in Africa
-tags: [A Tag, Test, Lorem, Ipsum]
+tags: [SIS, REDD+, Governance]
 excerpt_separator: <!--more-->
 ---
 ![alt text]( /assets/img/pexels/ivorycoast.jpg "REDD+ in Africa")
