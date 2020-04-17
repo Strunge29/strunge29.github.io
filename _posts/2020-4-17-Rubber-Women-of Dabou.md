@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Rubber Women of Dabou: Gender Disparities in Natural Rubber Enterprise Opportunities in Ivory Coast
+title: The Rubber Women of Dabou Gender Disparities in Natural Rubber Enterprise Opportunities in Ivory Coast
 color: brown
 excerpt_separator: <!--more-->
 ---
