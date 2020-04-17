@@ -7,7 +7,7 @@ author: Sheriff Ola
 excerpt_separator: <!--more-->
 ---
 
-![alt text]( /assets/img/pexels/ivorycoast.jpg "REDD+ in Africa")
+![alt text]( /assets/img/pexels/loading.jpg "Manual rubber loading using bare hands a common practice in West Africa | image courtesy of Google")
 
 Felicia, short and heavy set, with badly bleached skin and uneven set of teeth stained by cigarrette and marijuana, had used the $150 she received as disarmament money in 2003 to travel nearly 1000 km from Monrovia, Liberia, to Abidjan, Ivory Coast. She had come in search of a fresh start after years of serving as bride to a senior official in one of the rebel battalions that fought to overthrow President Charles Taylor's government during Liberia's second civil war.
 
@@ -19,7 +19,7 @@ Now, 12 years after the war, and four children from two failed marriages later, 
 
 Africa contributes about 5 percent of global natural rubber output, with West African countries like Nigeria, Liberia and Ivory Coast considered major producers. Others like Ghana, Benin and Cameroon also have robust rubber sectors often powered by foreign multinational companies like Michelin, Firestone and others based in Europe, America and Asia.
 
-![alt text]( /assets/img/pexels/ivorycoast.jpg "REDD+ in Africa")
+![alt text]( /assets/img/pexels/rubber_producers.png "Major rubber producing countries in 2014 | WorldAtlas.com")
 
 Although set back by decades of conflicts, rubber production in countries like Liberia and Ivory Coast quickly bounced back and has now become a major breadbasket for these economies. Ivory Coast, for instance,now produces about 60 percent of Africa's rubber output. In addition to being a robust foreign exchange earner, the rubber sector also has huge livelihood opportunities. Sadly, not everyone gets a fair shot at these opportunities.
 
@@ -27,7 +27,7 @@ In countries like Ivory Coast, the rubber sector is populated by different actor
 
 While foreign owned companies like SIPH, OLAM, SOFCIN and many others generate a lot of local jobs, mainly administrative and technical positions, by far, the largest employment opportunities in the rubber sector comes from artisanal activities like tapping and loading. Rubber tapping is the process used to extract latex from rubber trees. It involves using hooked knife or some other similar device to make a grooved slice in the bark of a rubber tree and then peeling off the bark to allow latex to flow out and be collected into a holding cup hooked to the tree trunk near the base of the grooved slice.
 
-![alt text]( /assets/img/pexels/ivorycoast.jpg "REDD+ in Africa")
+![alt text]( /assets/img/pexels/tapper.jpeg "Extracting rubber latex | courtesy of google")
 
 It is often a backbreaking, exhausting, dangerous and injury-prone activity especially as, most of the time, the best latex reservoir inside rubber trees tend to be located high up and tappers must climb all the way to get to them. This makes it difficult for women to participate actively in these kinds of activities.
 
@@ -49,7 +49,7 @@ Unfortunately, like many commodities, farmers or producers do not control rubber
 
 As one of the biggest producers of natural rubber, Malaysia outputs a significant portion of global rubber. And a few years ago, over 100,000 hectares of rubber trees became ripe for harvesting in Malaysia resulting in world rubber production hitting a record 13 million tonnes. Sadly, demand failed to match supply and rubber prices fell worldwide. Ivory Coast's over 160,000 rubber farmers were hit hard by the slump in prices and are, to this day, still recovering.
 
-![alt text]( /assets/img/pexels/ivorycoast.jpg "REDD+ in Africa")
+![alt text]( /assets/img/pexels/stockmarket.png "Uncertain stockmarket affects ruber trade in africa | Google")
 
 Thus, with the sector reeling from slump in prices, competition for rubber loading contracts has peeked to an all time high as several loading businesses have to jostle for the few contract jobs that are available. As a result, unscrupulous acts like refusal to honor merger payments and agreements has became commonplace and loaders like Felicia and her all-women team are considered easy prey. And government and others in authority have done little to help these loaders. But the women refuse to consider themselves victims. Nor would they give in to the idea of quitting. They're determined to be in the loading sector for the long haul.
 
