@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://strunge29.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Sheriff Ola                                      # site's title
+title: Olasunkanmi                                      # site's title
 description: "A website about forests and livelihoods"  # used by search engines
 avatar: assets/img/africa01.png                         # Empty for no avatar in navbar
 favicon: assets/africa01.ico                             # Icon displayed in the tab
