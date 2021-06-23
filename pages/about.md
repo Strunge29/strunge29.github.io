@@ -16,6 +16,6 @@ undertaken graduates studies in fields that focused on governance and administra
 forest and natural resource conservation management. I love to read, and often use any spare time I get to learn new skills, "machine learning for ecology" being the
 most recent one.
 
-Welcome to my blog. Please, remember to to leave a comment after reading one of my articles
+Welcome to my blog. Please remember to leave a comment after reading one of my articles
  
  
