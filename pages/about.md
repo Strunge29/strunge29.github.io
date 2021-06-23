@@ -6,9 +6,16 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I am an information scientist, a researcher, and a sustainability enthusiast. I write about livelihood trends in forest fringe communities. I use themes like 
+resilience, and traditional ecological knowledge to highlight some of the strategies that fringe people living in 
+forest frontier communities use to adapt to and manage challenges like poor governance and accountability,
+climate change, poverty, and resource inadequacy. 
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I hold a bachelors degree in political science with specialization in development administration. I have also
+undertaken graduates studies in fields that focused on governance and administration of public assets, on information management to support decision making, and on
+forest and natural resource conservation management. I love to read, and often use any spare time I get to learn new skills, "machine learning for ecology" being the
+most recent one.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Welcome to my blog. Please, remember to to leave a comment after reading one of my articles
+ 
  
