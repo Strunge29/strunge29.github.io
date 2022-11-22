@@ -6,15 +6,22 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-I am an information scientist, a researcher, and a sustainability enthusiast. I write about livelihood trends in forest fringe communities. I use themes like 
-resilience, and traditional ecological knowledge to highlight some of the strategies that fringe people living in 
-forest frontier communities use to adapt to and manage challenges like poor governance and accountability,
+I am an information scientist and a sustainability enthusiast. I write about livelihood trends in forest fringe communities. I use themes like 
+resilience and rural livelihood to highlight strategies that forest fringe populations and 
+communities use to adapt to and manage challenges like poor governance and accountability,
 climate change, poverty, and resource inadequacy. 
 
-I hold a bachelors degree in political science with specialization in development administration. I have also
-undertaken graduates studies in fields that focused on governance and administration of public assets, on information management to support decision making, and on
-forest and natural resource conservation management. I love to read, and often use any spare time I get to learn new skills, "machine learning for ecology" being the
-most recent one.
+My research interest is in climate-induced ecological variability effects on biodiversity. I use applications in informatics,
+biogeography, taxonomy, and data science to assess impacts of climate variability patterns on ecosystems. My other interest lies in 
+investigating how data and information are sought, acquired and used by scientists in fields such as ecology and earth sciences, 
+and then applying the insights towards conceptualizing new systems and approaches for addressing these needs.
+
+Professionally, I am interested in managing data and information for research purposes within STEM-focused environments 
+through the designing, implementing, and use of digital, spatial, and open-source information systems and best practices. 
+I hold a bachelors degree in political science with a minor in geography. I have also
+undertaken graduates studies in the governance and administration of public assets 
+as well as in information systems management to support forest and natural resource conservation. 
+I love to read and use my spare time to improve my programming and cartographic skills.
 
 Welcome to my blog. Please remember to leave a comment after reading one of my articles
  
