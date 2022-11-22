@@ -6,14 +6,14 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-I am an information scientist and a sustainability enthusiast. I write about livelihood trends in forest fringe communities. I use themes like 
-resilience and rural livelihood to highlight strategies that forest fringe populations and 
-communities use to adapt to and manage challenges like poor governance and accountability,
-climate change, poverty, and resource inadequacy. 
+I am an information scientist and ecological sustainability enthusiast. I write about livelihood trends in forest fringe communities using themes like 
+poverty and rural resilience to highlight strategies that forest fringe populations and 
+communities use to manage challenges like poor governance and accountability,
+climate variability, and resource inadequacy. 
 
 My research interest is in climate-induced ecological variability effects on biodiversity. I use applications in informatics,
-biogeography, taxonomy, and data science to assess impacts of climate variability patterns on ecosystems. My other interest lies in 
-investigating how data and information are sought, acquired and used by scientists in fields such as ecology and earth sciences, 
+biogeography, taxonomy, and data science to assess impacts of climate variability patterns on rural communities and forest ecosystems. My other interest lies in 
+investigating how information is sought, acquired and used by scientists in fields such as ecology and earth sciences, 
 and then applying the insights towards conceptualizing new systems and approaches for addressing these needs.
 
 Professionally, I am interested in managing data and information within STEM-focused environments 
