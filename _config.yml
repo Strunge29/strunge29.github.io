@@ -26,7 +26,7 @@ disqus_shortname: olasunkanmi                                     # Your discus 
 layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
 footer_icons:                                           # In _data/social.yml
 share_buttons:                                          # In _data/social.yml
-authors: Sheriff Ols                                               # In _data/authors.yml
+authors: Sheriff Ola                                               # In _data/authors.yml
 language:                                               # In _data/language.yml
 
 # PAGINATION
