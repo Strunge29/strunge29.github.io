@@ -7,13 +7,13 @@ excerpt_separator: <!--more-->
 
 <p align="center" width = "800" height = "300" alt = "Manual rubber loading using bare hands a common practice in West Africa | image courtesy of Google"><img src = "/assets/img/pexels/loading.jpeg" /></p>
 
-Felicia, short and heavy set, with badly bleached skin and an uneven set of teeth stained with cigarrette and marijuana, had used the $150 she received as disarmament money in 2003 to travel nearly 1000 km from Monrovia, Liberia, to Abidjan, Ivory Coast. <!--more--> She came in search of a fresh start after years as a child bride of a senior official in one of the rebel battalions that fought to overthrow President Charles Taylor's government during Liberia's second civil war.
+Felicia, short and heavy set, with badly bleached skin and an uneven set of teeth stained by cigarrette and marijuana, used the $150 she received as disarmament money in 2003 to travel nearly 1000 km from Monrovia, Liberia, to Abidjan, Ivory Coast. <!--more--> She came in search of a fresh start after years as a child bride of a senior official in one of the rebel battalions that fought to overthrow President Charles Taylor's government during Liberia's second civil war.
 
-Now, 12 years after the war, and four children from two failed marriages later, she is starting to feel that the fresh start she'd thought elusive since her arrival may be possible after all. Thanks, in no small part, to the rubber loading business she'd started a few years ago.
+Now, 12 years after the war, and four children from two failed marriages later, she feels the fresh start she'd thought elusive is possible after all. Thanks, in part, to the rubber loading business she'd started a few years ago.
 
 "*It no easy for people like me to have rubber business without conneshorn (connection). Even though the money alrigh, I wan show that wumon (women) wif no money or conneshorn (connection) can start business in rubber and prosper*"
 
-Africa contributes about 5 percent of global natural rubber output, with Western African countries like Nigeria, Liberia and Ivory Coast considered major producers. Others like Ghana, Benin and Cameroon also have robust rubber sectors often powered by foreign multinational companies like Michelin, Firestone and others based in Europe, America and Asia.
+Africa contributes nearly 5 percent of global natural rubber output, with western African countries like Nigeria, Liberia and Ivory Coast considered major producers. Others like Ghana, Benin and Cameroon also have robust rubber sectors often powered by foreign multinational companies like Michelin, Firestone and others based in Europe, America and Asia.
 
 <p align="center" width = "400" height = "200" alt = "Major rubber producing countries in 2014 | WorldAtlas.com"><img src = "/assets/img/pexels/rubber_producers.png" /></p>
 
