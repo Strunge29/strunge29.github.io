@@ -47,4 +47,4 @@ Thus, with the sector reeling from slumped prices, competition for rubber loadin
 "It part of the business" Felicia says, trying to downplay the hassle they face from their male colleagues. She has a sad smile revealing two missing front teeth - a legacy of her last marriage. "Sometime things down, sometime things up. We can't quit cos things down now. It's just part of business. And nobody and nothing make we quit. I wan show dat we too can do it. I know we can. Just wait, you will see." With an outstretched index finger, she touches her right cheek before pointing up in a gesture of resolve and determination.
 
 
-(*The events described here occurred over five years ago, when I worked as a purchasing and logistics agent in the Liberian and Ivory Coas natural rubber sectors. Some of the situations described here have either improved or worsened*).
+(*The events described here occurred over five years ago, when I worked in a UN-sponsored REDD plus program in the Liberian and Ivory Coast. Some of what I described here have either improved or worsened*).
