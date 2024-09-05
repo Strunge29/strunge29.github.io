@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gender Disparities in Natural Rubber Enterprise Opportunities in Ivory Coast
+title: Gender Disparities in Natural Rubber Enterprise Opportunities in a Tropical Forest Economy
 color: brown
 excerpt_separator: <!--more-->
 ---
