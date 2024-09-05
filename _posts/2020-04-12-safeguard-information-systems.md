@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Implementing Safeguard Information Systems for REDD+ in Africa
-tags: [SIS, REDD+, Governance]
+title: Implementing Safeguard Information Systems for REDD+ Reporting in Africa
+tags: [SIS, REDD+, Forest Governance]
 excerpt_separator: <!--more-->
 ---
 
